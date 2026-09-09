@@ -502,6 +502,72 @@ patterns.
 <br>
 
 <!-- ========================================================= -->
+<!--                    ACHIEVEMENTS                           -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
+width="100%"/>
+
+<h1>🏆 Achievements</h1>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<h1>🥇</h1>
+
+<h2>1st Rank</h2>
+
+College Kaggle Competition
+
+<br><br>
+
+<b>2026</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<h1>🥈</h1>
+
+<h2>2nd Rank</h2>
+
+College Hackathon
+
+<br><br>
+
+<b>2024</b>
+
+</td>
+
+<td align="center" width="33%">
+
+<h1>🥈</h1>
+
+<h2>2nd Rank</h2>
+
+College Web Development Event
+
+<br><br>
+
+<b>2025</b>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
 <!--                    CERTIFICATIONS                         -->
 <!-- ========================================================= -->
 
