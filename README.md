@@ -1,33 +1,30 @@
-<!-- ========================================================= -->
-
-<!--                    TAHESEEN SHEIK                         -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:06B6D4&height=220&section=header&text=TAHESEEN%20SHEIK&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C6FF&height=220&section=header&text=TAHESEEN%20SHEIK&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Computer+Science+%7C+Java+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Building+RAG+%26+AI-Powered+Applications;Learning+DSA+%7C+SQL+%7C+MongoDB;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Java+%7C+Python+%7C+SQL+Developer;AI%2FML+%26+Generative+AI+Enthusiast;Full+Stack+Developer;Building+Smart+%26+Scalable+Applications" />
 
-<br>
+<br><br>
 
-<p>
 <a href="https://github.com/SheikTaheseen">
-<img src="https://img.shields.io/badge/GitHub-SheikTaheseen-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/taheseen-sheik-899174423/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Sheik_Taheseen/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="mailto:sheiktaheseen07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://taheseen.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=SheikTaheseen&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=SheikTaheseen&label=Profile%20Views&color=00C6FF&style=for-the-badge"/>
 
 </div>
 
@@ -35,376 +32,234 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### Hello World! 👋
-
-I'm **Taheseen Sheik**, a Computer Science & Engineering student passionate about building software and exploring the world of Artificial Intelligence.
-
-🎓 **B.Tech — Computer Science & Engineering**
-
-💻 Focused on **Java, DSA, SQL & Backend Development**
-
-🤖 Exploring **AI/ML, Generative AI, RAG & LLM Applications**
-
-🍃 Working with **MongoDB & modern web technologies**
-
-🚀 I enjoy turning ideas into practical, user-focused applications.
-
-📚 Currently learning, building and solving problems every day.
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://github-readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&width=350&height=120&lines=Code.;Learn.;Build.;Solve.;Repeat.%F0%9F%94%A5" />
-
-<br>
-
-```text
-💡 Developer Mindset
-
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat 🚀
-```
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🎓 B.Tech Computer Science & Engineering Student
+- 🏫 Santhiram Engineering College, Nandyal
+- 📊 CGPA: **8.99 / 10**
+- 💻 Passionate about Software Development
+- 🤖 Interested in AI, Machine Learning & Generative AI
+- 🌐 Interested in Full Stack Development
+- 🧩 Practicing Data Structures & Algorithms
+- 🌱 Currently improving Java, SQL & Backend Development
+- 🎯 Aspiring Software Engineer
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Programming Languages
 
-### 💻 Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,c,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js" height="55"/>
+### 🌐 Web Development
 
-<br><br>
-
-### 🌐 Frontend & Backend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" height="55"/>
-
-<br><br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
+</p>
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="55"/>
-
-<br><br>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
 
 ### 🤖 AI / ML / Generative AI
 
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-
-<br><br>
+<p align="left">
 
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FAISS-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+</p>
 
 ### ☁️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,jupyter,aws" height="55"/>
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
 
 ---
 
 ## 🧠 Core Computer Science
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Java%20OOP-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Structures-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Algorithms-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/DBMS-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Operating%20Systems-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Networks-020617?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B6B?style=for-the-badge"/>
 
-</div>
+<img src="https://img.shields.io/badge/OOP-4ECDC4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DBMS-45B7D1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Computer%20Networks-6C5CE7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Operating%20Systems-F39C12?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🤖 MarketMind
 
 **Generative AI Sales & Marketing Platform**
 
-</div>
+AI-powered platform designed to assist with sales and marketing using Generative AI.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+**Features**
+- AI-powered marketing assistance
+- Sales insights and analytics
+- Generative AI integration
+- Intelligent recommendations
 
-### ✨ What it does
+**Tech Stack**
 
-An AI-powered platform designed to assist sales and marketing workflows using Generative AI.
-
-**Highlights**
-
-* 🤖 AI-powered content and assistance
-* 📊 Marketing-oriented workflows
-* ⚡ Interactive web interface
-* 🔗 AI API integration
-* ☁️ Cloud deployment
-
-</td>
-
-<td width="45%" valign="top">
-
-### 🧰 Stack
-
-`Generative AI`
-`JavaScript`
-`React`
-`Node.js`
-`MongoDB`
-`Vercel`
+`Python` `Gemini` `RAG` `Generative AI`
 
 <br>
 
 <a href="https://github.com/SheikTaheseen">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-</tr>
-</table>
 
----
-
-<div align="center">
+<td width="50%">
 
 ### 🎓 EduGen AI
 
-**RAG-Powered Education Assistant**
+**RAG-Based Educational AI Assistant**
 
-</div>
+An AI-powered education platform that uses Retrieval-Augmented Generation.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+**Features**
+- 📝 Notes Generator
+- 📚 Lesson Generator
+- 🧠 Quiz Generator
+- 💬 Student AI Chat
 
-### ✨ Features
+**Tech Stack**
 
-📚 **Lesson Generator**
-
-📝 **Notes Generator**
-
-❓ **Quiz Generator**
-
-💬 **Student AI Chat**
-
-🔎 **Retrieval-Augmented Generation**
-
-</td>
-
-<td width="45%" valign="top">
-
-### 🧰 Stack
-
-`Python`
-`Streamlit`
-`Google Gemini`
-`RAG`
-`FAISS`
-`SQLite`
+`Python` `RAG` `Gemini` `Streamlit`
 
 <br>
 
 <a href="https://github.com/SheikTaheseen">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
+
 </tr>
-</table>
 
----
-
-<div align="center">
-
-### 🔍 Cloud-Based Web Application Behaviour Monitoring System
-
-**Real-Time Web Behaviour & Anomaly Detection**
-
-</div>
-
-<table>
 <tr>
-<td width="55%" valign="top">
 
-### 🎯 Highlights
+<td width="50%">
 
-* 📡 Real-time clickstream monitoring
-* 🔎 Behaviour analysis
-* 📊 Statistical anomaly detection
-* 📈 Z-score based detection
-* ⚙️ Adaptive thresholds
-* ☁️ Cloud-based architecture
+### 📊 Web Behaviour Monitoring
 
-</td>
+**Cloud-Based Web Application Behaviour Monitoring System**
 
-<td width="45%" valign="top">
+A MERN-based system for monitoring web-user behaviour and detecting abnormal activity.
 
-### 🧰 Stack
+**Features**
+- Real-time clickstream monitoring
+- User behaviour analysis
+- Z-score anomaly detection
+- Adaptive anomaly thresholds
 
-`MongoDB`
-`Express.js`
-`React`
-`Node.js`
-`JavaScript`
-`Statistics`
+**Tech Stack**
+
+`MongoDB` `Express` `React` `Node.js`
 
 <br>
 
 <a href="https://github.com/SheikTaheseen">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20Project-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-</tr>
-</table>
 
----
-
-<div align="center">
+<td width="50%">
 
 ### 📰 Fake News Detection
 
-**Machine Learning Based Fact Checking**
+**AI-Powered Fact Checking Application**
 
-</div>
+Machine-learning based application for detecting potentially fake or misleading news.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+**Features**
+- Fake news classification
+- NLP-based analysis
+- Dataset-driven prediction
+- Fact-checking assistance
 
-### 🔎 Overview
+**Tech Stack**
 
-Machine-learning project focused on identifying potentially fake or misleading news.
-
-**Datasets**
-
-`Kaggle Fake News`
-
-`LIAR Dataset`
-
-</td>
-
-<td width="45%" valign="top">
-
-### 🧰 Stack
-
-`Python`
-`Machine Learning`
-`NLP`
-`Data Analysis`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Certifications & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-### 🏆
-
-**Oracle**
-
-Agentic AI Foundations Associate
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖
-
-**CodeTantra**
-
-Generative AI Internship
-
-</td>
-
-<td align="center" width="33%">
-
-### 🍃
-
-**MongoDB**
-
-Developer Learning Path
-
-</td>
-
-</tr>
-</table>
+`Python` `Machine Learning` `NLP`
 
 <br>
 
-<img src="https://img.shields.io/badge/GitHub%20Student%20Developer%20Pack-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/SheikTaheseen">
+<img src="https://img.shields.io/badge/View%20Project-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Analytics
+## 🏆 Certifications & Achievements
+
+- 🥇 **Oracle Agentic AI Foundations Associate**
+- 🤖 **Generative AI Internship – CodeTantra**
+- 🗄️ **MongoDB Developer Learning Path**
+- 🐙 **GitHub Student Developer Pack**
+- 📚 **B.Tech Computer Science & Engineering – CGPA 8.99 / 10**
+- 💻 **Active DSA & Problem Solving Practice**
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SheikTaheseen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=SheikTaheseen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikTaheseen&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikTaheseen&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SheikTaheseen&theme=tokyonight&hide_border=true&background=020617" />
+<img src="https://streak-stats.demolab.com?user=SheikTaheseen&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Graph
+## 🐍 Contribution Activity
 
 <div align="center">
 
@@ -414,91 +269,77 @@ Developer Learning Path
 
 ---
 
-# 🧩 LeetCode
+## 🌱 Currently Learning
+
+<p align="center">
+
+☕ **Advanced Java**  
+🧩 **Data Structures & Algorithms**  
+🗄️ **Advanced SQL & DBMS**  
+🌐 **Backend Development**  
+🤖 **Generative AI & RAG**  
+☁️ **Cloud Computing**
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- [x] Build AI-powered applications
+- [x] Complete Generative AI internship
+- [x] Earn industry certifications
+- [ ] Improve DSA & problem solving
+- [ ] Build more production-ready applications
+- [ ] Contribute to Open Source
+- [ ] Become placement-ready
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Sheik_Taheseen/">
+### Let's Build Something Amazing 🚀
 
-<img src="https://leetcard.jacoblin.cool/Sheik_Taheseen?theme=dark&font=Baloo&ext=heatmap" />
-
+<a href="mailto:sheiktaheseen07@gmail.com">
+<img src="https://img.shields.io/badge/Email-sheiktaheseen07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/☕%20Java-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20DSA-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🗄️%20SQL%20%26%20DBMS-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🍃%20MongoDB-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖%20AI%2FML-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/✨%20Generative%20AI-020617?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔎%20RAG-020617?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| Goal                           | Progress      |
-| ------------------------------ | ------------- |
-| ☕ Master Java                  | 🔄 Learning   |
-| 🧠 Strengthen DSA              | 🔄 Learning   |
-| 🗄️ Improve SQL & DBMS         | 🔄 Learning   |
-| 🍃 Deepen MongoDB Skills       | 🔄 Learning   |
-| 🤖 Build Advanced AI Projects  | 🔄 Learning   |
-| 🔎 Explore Advanced RAG        | 🔄 Learning   |
-| 🌍 Contribute to Open Source   | ⏳ Coming Soon |
-| 🚀 Build Production-Ready Apps | 🔄 Ongoing    |
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/SheikTaheseen">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://taheseen.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-taheseen.vercel.app-00C6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/taheseen-sheik-899174423/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Taheseen%20Sheik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Sheik_Taheseen/">
-<img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/SheikTaheseen">
+<img src="https://img.shields.io/badge/GitHub-SheikTaheseen-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<br><br>
+
+📧 **sheiktaheseen07@gmail.com**
+
+🌐 **https://taheseen.vercel.app**
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Solving+%F0%9F%A7%A0;Keep+Growing+%F0%9F%94%A5" />
+⭐ **Feel free to explore my repositories and connect with me!**
 
-<br><br>
+<br>
 
-⭐ **Star my repositories if you find them useful!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00C6FF&height=120&section=footer"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0F172A,100:020617&height=120&section=footer" width="100%"/>
 
-<!-- ========================================================= -->
 
-<!--                       END                                 -->
 
-<!-- ========================================================= -->
