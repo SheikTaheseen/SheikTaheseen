@@ -10,7 +10,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=180&section=top&text=SHEIK%20TAHESEEN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
 width="100%"/>
 
-<h1>Software Engineering &nbsp;|&nbsp; Full Stack Developer</h1>
+<h1>Software Engineering &nbsp;|&nbsp; JAVA Developer</h1>
 
 <p style="font-size: 18px;">
 Building full-stack applications and exploring AI-powered solutions.
@@ -56,23 +56,23 @@ width="100%"/>
 
 🎓 B.Tech Computer Science & Engineering Student | 2027 Graduate
 
-<br><br>
+<br>
 
 💻 Software Engineering & Full Stack Developer
 
-<br><br>
+<br>
 
 🤖 Exploring Artificial Intelligence, Machine Learning & Generative AI
 
-<br><br>
+<br>
 
 🔎 Interested in Retrieval-Augmented Generation and intelligent applications
 
-<br><br>
+<br>
 
 🚀 Passionate about building practical, user-focused software solutions
 
-<br><br>
+<br>
 
 📚 Continuously learning, building and improving
 
