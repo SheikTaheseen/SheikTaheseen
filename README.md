@@ -332,8 +332,8 @@ insights using modern Generative AI techniques.
 
 <br><br>
 
-<a href="https://taheseen.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge"/>
+<a href="https://v0-market-mind-saa-s-platform-ke.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live Demo-38BDF8?style=for-the-badge"/>
 </a>
 
 </td>
