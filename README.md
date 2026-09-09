@@ -482,14 +482,14 @@ patterns.
 
 <h3>🔗 Links</h3>
 
-<a href="https://github.com/SheikTaheseen">
+<a href="https://github.com/Siva6918/NutriCloudMonitor">
 <img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
 </a>
 
 <br><br>
 
-<a href="https://taheseen.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge"/>
+<a href="https://nutri-cloud-monitor.vercel.app/login">
+<img src="https://img.shields.io/badge/🌐%20Live Demo-38BDF8?style=for-the-badge"/>
 </a>
 
 </td>
