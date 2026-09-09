@@ -326,7 +326,7 @@ insights using modern Generative AI techniques.
 
 <h3>🔗 Links</h3>
 
-<a href="https://github.com/SheikTaheseen">
+<a href="https://github.com/SheikTaheseen/Market-Mind">
 <img src="https://img.shields.io/badge/📂%20Repository-0F172A?style=for-the-badge&logo=github"/>
 </a>
 
