@@ -684,14 +684,13 @@ width="100%"/>
 src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2&width=1000"
 width="100%"/>
 
-**## 📊 GitHub Statistics**
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SheikTaheseen&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheikTaheseen&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <br>
 
 <!-- ========================================================= -->
