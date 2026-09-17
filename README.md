@@ -700,13 +700,9 @@ width="100%"/>
 <div align="center">
 
 <h2>🐍 Contribution Activity</h2>
-
-<img
-src="https://raw.githubusercontent.com/SheikTaheseen/SheikTaheseen/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SheikTaheseen/SheikTaheseen/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
 
 <br>
 
