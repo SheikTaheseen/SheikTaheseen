@@ -520,11 +520,11 @@ width="100%"/>
 
 <td align="center" width="33%">
 
-<h1>🥇</h1>
+<h1>🥈</h1>
 
-<h2>1st Rank</h2>
+<h2>2nd Rank</h2>
 
-College Kaggle Competition
+College AI-build-a-thon Competition
 
 <br><br>
 
@@ -542,7 +542,7 @@ College Hackathon
 
 <br><br>
 
-<b>2024</b>
+<b>2025</b>
 
 </td>
 
@@ -552,11 +552,11 @@ College Hackathon
 
 <h2>2nd Rank</h2>
 
-College Web Development Event
+College Technical Paper Presentation
 
 <br><br>
 
-<b>2025</b>
+<b>2023</b>
 
 </td>
 
